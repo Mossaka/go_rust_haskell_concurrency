@@ -1,7 +1,7 @@
 module Main where
 
-import Control.Concurrent
 import Control.Concurrent.Async
+import Control.Monad (msum)
 -- main :: IO ()
 -- main = do
 --     m <- newEmptyMVar
@@ -16,4 +16,5 @@ import Control.Concurrent.Async
 
 main :: IO ()
 main = do 
-    return sum $ forConcurrently (repeat 1000 1) idM
+    result <- forConcurrently (replicate 1000 1) (\x -> return x);
+    putStrLn $ show $ sum result
