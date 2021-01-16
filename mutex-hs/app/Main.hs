@@ -15,4 +15,5 @@ import Control.Concurrent.Async
 --     modifyMVar_ m (\num -> return $ num + 1)
 
 main :: IO ()
-main = do return sum $ forConcurrently (repeat 1000 1) idM
+main = do 
+    return sum $ forConcurrently (repeat 1000 1) idM
