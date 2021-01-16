@@ -1,0 +1,657 @@
+history
+ls
+cargo new --bin mandelbrot
+cd RustJourney/src/day2/
+cd ..
+git push
+git commit -m "day 1 finished"
+git status
+git add src
+git reset
+git reset Programming Rust.pdf
+git branch Programming Rust.pdf
+git checkout Programming Rust.pdf
+git add .
+gits tatus
+cargo run
+cargo install racer
+cargo install rustsym
+cd iron-gcd/
+cargo new --bin iron-gcd
+ls
+cargo run 42 56
+cargo test
+cd hello/
+cd src/day1/hello/
+cd src/day
+cd hello
+cargo clean
+cd src/day1/
+cd
+d ..
+./main
+rustc main.rs
+cat main.rs
+cd src
+cat Cargo.toml
+ls -la
+stack exec -- hplus synthesis "Pair (a -> b) (a -> c) -> a -> Pair b c"
+stack exec -- hplus generate --preset=icfptotal
+stack exec -- hplus generate --preset=
+stack build
+stack exec -- evaluation
+stack exec -- hplus evaluation
+stack exec -- hplus evaluate
+stack exec -- hplus --evaluate
+stack exec -- hplus --help
+stack exec -- hplus -h
+stack exec -- hplus -help
+stack ghc -- --show-iface src/Model.hi | grep newtype
+stack ghc -- --show-iface src/Model.hi | grep KeyUser
+stack ghc -- --show-iface src/Model.hi
+stack ghc src/Model.hs
+git stash
+stack exec -- liquid src/Filters.hs -i src
+stack clean
+cd ../binah-basic/
+stack build persistent persistent-template persistent-sqlite
+ls -a
+cd ../persistent/
+clear
+cd ../binah-basic
+cd ../per
+stack exec
+cd persistent/
+stack ghci
+cabal install split
+stack build --ghc-options='-XQuasiQuotes'
+stack build src  --ghc-options='-XQuasiQuotes'
+stack build ./  --ghc-options='-XQuasiQuotes'
+stack build Model.hs --ghc-options='-XQuasiQuotes'
+cd src/
+stack build src/Model.hs --ghc-options='-XQuasiQuotes'
+stack build --ghc-options='-XQuasiQuotes' src/Model.hs
+stack build --ghc-options='-XQuasiQuotes' src/Model
+stack exec -- liquid -v src/Filters.hs -i src
+stack ghc -- src/Model.hs -ddump-splices | grep KeyUser
+stack ghc -- src/Model.hs -ddump-splices
+stack build --ghc-options='-XQuasiQuotes -ddump-splices -fforce-recomp'
+stack build --ghc-options='-XQuasiQuotes -ddump-splices'
+stack build --ghc-options='-ddump-splices -fforce-recomp'
+stack build src/Model.hs
+stack exec -- liquid -v src/Model.hs -i src
+stack buikd
+stack exec -- liquid -v src/Filters.hs -i src | grep KeyUser
+ls -a src/
+ls src/
+rm -r src/.liquid/
+stack build --ghc-options='-XQuasiQuotes -ddump-spices'
+stack ghci --ghci-options='-XQuasiQuotes -ddump-splices'
+stack ghci --ghci-options='-XQuasiQuotes -ddump-splice'
+stack exec -- liquid src/Fields.hs -i src
+stack ghci --ghci-options='-XQuasiQuotes'
+stack exec -- yesod devel
+stack run
+stack webapp run
+stack ghci -XQuasiQuotes src/Model
+ghci -XQuasiQuotes src/Model
+ghci -XquasiQuotes src/Model
+stack ghci -XquasiQuotes src/Model
+stack exec -- liquid src/Filter.hs -i src
+stack exec -- liquid src/DBApi.hs -i src
+git pull origin master
+git pull
+git branch
+cd todo/
+stack exec -- liquid src/BinahPrelude.hs -i src
+stack exec -- liquid src/Model.hs -i src
+git stash apply
+git stash show
+git stash list
+git stash pop
+git diff stack.yaml
+stack exec -- liquid src/Field.hs -i src
+git reset --hard
+git exec -- liquid src/Model.hs -i src
+git exec -- liquid src/Model.hs src -i
+git diff package.yaml
+git diff
+git diff src/Model.hs
+stack exec -- liquid src/Settings/DBApi.hs -i src
+stack exec -- liquid ../todo/src/Settings/DBApi.hs -i src
+stack exec -- liquid src/DBApi -i src
+cd ../todo
+stack exec -- liquid src/Models.hs -i src
+python --version
+python --help
+python count_freqs.py gene.train2
+python eval_gene_tagger.py gene.key gene.dev.p2.out
+git checkout 9912a5bc2540f58e99d2f6143e23fdf7bca9c9e3
+git log
+git branch 9912a5bc2540f58e99d2f6143e23fdf7bca9c9e3
+python
+git commit -m "finished vertibi algo"
+git commit -m "added shared events"
+git commit -m "added eventExt"
+cd ../calendar/
+git checkout 945e533947efc3e4b7172beb64b6415e4f44ed57
+git checkout master
+cd ../todo/
+git commit -m "basic functionality"
+cd calendar/
+liquid binarySearchTrees.hs
+swipl
+cd Homework7/06-prolog/src/
+make
+cd Homework6/05-types/
+git commit -m "finished"
+git commit -m -a "finished"
+cd 06-prolog/
+l
+swip
+brew install swi-prolog --HEAD
+brew install cmake
+brew unlink swi-prolog
+bear
+cd cse130/assignments/06-prolog/
+cd Winter\ 2019/
+swipl misc.pl
+swpil misc.pl
+cd 06-prolog/src/
+git clone https://github.com/cse130-wi19/06-prolog.git
+cd Homework7/
+mkdir Homework7
+cd..
+git pull origin
+cd cse130/
+cd hw6-Mossaka/
+lsa
+open main.pdf
+stack exec dive Example.hs
+git reflog
+git checkout 499a204
+stack exec dive Example.hs funtokens.txt typetokens.txt
+stack exec dive Example.hs funtokens.txt
+stack exec dive Example.hs functokens.txt
+git checkout 1e4de0e762ec45169adde65bae03b7171627ad7e
+git history
+git commit -m "constructors"
+cd 04-nano/
+cd Homework5/
+;s
+cd 05-types/
+git clone https://github.com/cse130-wi19/05-types.git
+cd Homework6/
+mkdir Homework6
+cd Homework5/04-nano/
+cd Language/
+cd sol/
+cd cse130/assignments/05-types/
+parse "[1,3,5]"
+:r
+cd hplus-paper/
+undo
+git clone https://github.com/nadia-polikarpova/hplus-paper.git
+cd Hoogle+/
+cat test/test1/Hw1.hs
+cat Hw1.txt
+cd outputtest/test1/
+python pipe.py test outputtest
+mkdir test3
+mkdir test2
+mkdir test1
+cd outputtest/
+rm *.txt
+rm *.t
+cd ../test3/
+cd ../test1/
+cd test/test2/
+python pipe.py test outputtest/
+cd 02-parser/
+cd dive-into-ghc/02-parser/
+cp test1/Hw1.hs test2
+mv Hw3.hs test3
+mv Hw1.hs test1
+cd test
+stack exec dive test/Example.hs
+stack exec dive Main.hs
+git commit -m "some hacky way to solve the task"
+stack exec dive ./test/Example.hs
+stack exec dive Hw1.hs
+stack exec dive "test/Example.hs"
+mkdir outputtest
+mv Example.hs test
+mkdir test
+stack exec dive "Example.hs" > ex1.txt
+stack exec dive "Example.hs"
+stack exec dive "Example.hs" "funtokens.txt" "typetokens.txt"
+git --help
+git commit -m "backup "
+cd Nano/
+stack solver
+cd hoogle/
+ghci answers.hs
+cd ~/L/M/c/U/R/H/hoogle
+rm ghc-8.6.2.installed
+cd /Users/mossaka/.stack/programs/x86_64-osx/
+vim stack.yaml
+vim hoogle.cabal
+rm ghc-8.4.4.installed
+rm ghc-8.0.2.installed
+rm ghc-8.6.1.installed
+ls /Users/mossaka/.stack/programs/x86_64-osx/
+vim /Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/UCSD/Research/Hoogle+/hoogle/stack.yaml
+stack path
+stack --help
+cat README.md
+git fetch
+git pull origin hoogle4
+git checkout hoogle4
+git checkout branch
+ghci
+ks
+cd 04-nano/src/Language/Nano/
+ghci binarySearchTrees.hs
+spy run "liquid" .
+jupyter notebook
+source hooglenv/bin/activate.fish
+rm ghc-8.4.3.installed
+stack exec env
+stack ghc
+stack setup
+liquid
+cabal install liquidhaskell
+stack config
+stack -h
+ls -l /Users/mossaka/.stack/
+stack install
+stack build dive
+stack install ghc-8.4.3
+cd liquidhaskell/
+stack init
+stack instlal
+stack exec -- hoogle
+hoogle
+pip install -r setup/requirements.txt
+pip install -r setup/requirements.txt -
+source hooglenv/bin/activate
+virtualenv -p python3 hooglenv
+ssh jiz417-goto@goto.ucsd.edu
+virtualenv --version
+pip3 install virtualenv
+python3 --version
+pip3 --version
+pip --version
+pip
+virtualenv
+cd hplus_data/
+cabal install
+echo README.md
+git clone https://github.com/ndmitchell/hoogle.git
+cd inputs/
+mkdir inputs
+cd data/
+mkdir data
+git clone https://github.com/davidmrdavid/hplus_data.git
+ssh jiz417@goto.ucsd.edu
+ssh jiz417-goto@ucsd.edu
+docker run -p 8080:8080 searchcode/searchcode-server-community
+docker run searchcode/searchcode-server-community
+docker images
+docker --help
+stack e
+cd todo
+git clone https://github.com/souravan/todo.git
+cd my-project/
+stack new my-project yesod-sqlite
+yesod init
+yesod
+stack install yesod-bin --install-ghc
+stack templates
+stack exec -- yesod init
+stack exec -- yesod
+stack exec --yesod init
+stack runghc app.hs
+stack runghc links.hs
+brittany links.hs
+brittany --version
+brittany
+format
+hlint links.hs
+hlint helloworld.hs
+hlint --version
+hlint
+stack runghc helloworld.hs --ddump-splices
+stack runghc helloworld.hs
+stack runghc runhaskell
+runhaskell helloworld.hs
+runhaskell --version
+runhaskell
+ghci helloworld.hs
+stack build classy-prelude-yesod persistent-sqlite
+code
+stack exec dive "Hw1.hs" "funtokens.txt" "typetokens.txt"
+ghci try.hs
+make turnin
+spy run "make" ""
+spy run "make"
+spy run "make" .
+stack exec dive "Example.hs" " " "GHC.Types.Int -> GHC.Types.Int"
+stack exec dive "Example.hs" "GHC.Types.Int -> GHC.Types.Int"
+stack exec dive "Example.hs" " " "[GHC.Types.Int] -> GHC.Types.Int"
+stack exec dive "Example.hs" " " "forall a b. (a -> b -> a) -> a -> [b] -> a"
+stack exec dive "Example.hs" "" "forall a b. (a -> b -> a) -> a -> [b] -> a"
+stack exec dive "Hw3.hs" "Hw3.clone" "forall a b. (a -> b -> a) -> a -> [b] -> a"
+stack exec dive "Hw3.hs" "Hw3.clone" "Hw3.BigInt -> Hw3.BigInt"
+stack exec dive "Hw3.hs" "Hw3.clone" "a -> GHC.Types.Int"
+stack exec dive "Hw3.hs" "Hw3.clone" "GHC.Types.Int -> GHC.Types.Bool"
+stack exec dive "Hw3.hs" "Hw3.clone"
+stack exec dive "Example.hs" "Hw3.clone" "GHC.Integer.Type.Integer"
+stack exec dive "Example.hs" "Hw3.clone" "GHC.Integer.Type.Integer -> GHC.Integer.Type.Integer -> GHC.Integer.Type.Integer"
+stack exec dive "Example.hs" "Hw3.clone" "GHC.Integer.Type.Integer -> GHC.Integer.Type.Integer"
+stack exec dive "Example.hs" "Hw3.clone" "Integer"
+stack exec dive "Hw3.hs" "Hw3.clone" "Integer"
+cd ../../../../
+ghci Parse.hs
+cd lib/Language/Haskell/Stylish/
+cd stylish-haskell/
+s
+cd stylish-haskell/src/
+git clone https://github.com/jaspervdj/stylish-haskell.git
+stack exec dive "Types.hs" "valueString" "Integer"
+cd /Users/mossaka/Library/Mobile\ Documents/com\~apple\~CloudDocs/UCSD/CSE\ 130\ -\ Tutoring/Winter\ 2019/cse130
+stack exec dive "Example.hs" "Example.z" "Integer"
+git commit -m "also just want to make a backup"
+stack exec dive "Example.hs" "Example.z" "GHC.Integer.Type.Integer"
+stack exec dive "Example.hs" "Example.z" "GHC.Types.Integer"
+stack exec dive "Example.hs" "Example.z" "GHC.Types.Int"
+stack exec dive "Example.hs" "Example.x" "GHC.Types.Int"
+stack exec dive "Example.hs" "Example.x" "GHC.Classes.Ord a => a -> [a]"
+stack exec dive "Example.hs" "Example.x" "GHC.Types.Int -> [GHC.Types.Int]"
+stack exec dive "Example.hs" "Example.x" "HC.Types.Int -> [GHC.Types.Int]"
+stack exec dive "Example.hs" "Example.x" "GHC.Num.Num GHC.Types.Int =>"
+stack exec dive "Example.hs" "Example.x" "GHC.Types.Int -> GHC.Types.Int -> GHC.Types.Int"
+stack exec dive "Example.hs" "Example." "GHC.Types.Int -> GHC.Types.Int -> GHC.Types.Int"
+stack exec dive "Example.hs" "x" "GHC.Types.Int -> GHC.Types.Int -> GHC.Types.Int"
+stack exec dive "Example.hs" "Hw3.foldLeft" "GHC.Types.Int -> GHC.Types.Int -> GHC.Types.Int"
+stack exec dive "Example.hs" "Hw3.foldLeft" "GHC.Types.Int -> GHC.Types.Int"
+stack exec dive "Example.hs" "Hw3.foldLeft" "Int"
+ssh cs130w@ieng6.ucsd.edu
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "Int"
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "a -> Int -> [a]"
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "a -> GHC.Types.Int -> [a]"
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "GHC.Base.String"
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "String"
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "Hw3.BigInt"
+stack exec dive "Example.hs" "Example.x" "Int"
+git commit -m "just want to backup before I delete everything"
+stack exec dive "Example.hs" "Hw3.foldLeft" "Int -> Int -> Int"
+stack exec dive "Hw1.hs" "Hw3.foldLeft" "Int -> Int -> Int"
+stack exec dive "Example1.hs" "Hw3.foldLeft" "Int -> Int -> Int"
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "Int -> Int -> Int"
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "[]"
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "[String]"
+stack exec dive "Hw3.hs" "Hw3.foldLeft" "GHC.Types.Int"
+stack exec dive "Example.hs" "GHC.Types.Int"
+stack exec dive "Example.hs" "Int"
+stack exec dive "Example.hs" "Hw3.foldLeft"
+stack exec dive "Hw3.hs" "Hw3.foldLeft"
+stack exec dive "Hw3.hs" "GHC.Foldable.length"
+stack exec dive
+stack exec dive-exer
+stack build div
+stack exec dive-exe
+cd dive-into-ghc/
+stack ghci Lib.hs
+ghci Lib.hs
+cd ghc-ast/
+stack exec ghc-ast
+stack exec ghc-ast-exe
+stack new ghc-ast
+stack new ghc_ast
+cd liquidhs/
+stack exec --liquid binarySearchTree.hs
+git push origin master
+git commit -m "finished the last part without ple"
+git commit -m "LH not working in the last lemma"
+[1;2A
+cd hw3-Mossaka/
+lksc
+cat Main.hs
+stack build intero
+code .
+stack new my-project new-template
+stack exec -- ghc-dump-tree Example.hs > out4.json
+cd ghc-dump-tree/
+stack exec ghc-lib
+cabal run ghc
+git clone git://git.haskell.org/ghc.git --recursive
+cd ghc-lib/
+git clone https://github.com/digital-asset/ghc-lib.git
+cabal update
+cabal install ghc-lib
+ghci Hw3.hs
+stack exec -- ghc-dump-tree Example.hs > out3.json
+stack exec -- ghc-dump-tree Example.hs > out2.json
+stack exec -- ghc-dump-tree Example.hs > out.json
+stack exec -- ghc-dump-tree Example.hs
+stack exec -- ghc-dump-tree json
+stack exec ghc-dump-tree
+vim /Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/UCSD/Research/Hoogle+/ghc-dump-tree/stack.yaml
+./buildall.sh
+cabal
+git clone https://github.com/edsko/ghc-dump-tree.git
+cabal install ghc-dump-tree
+spy
+cd ../02-parser/
+cd ../03-core/
+cd Hoogle+/dive-into-ghc/02-parser/
+cd 01-pipeline/
+stack build annotate
+cd annotate/
+git clone https://github.com/sdiehl/dive-into-ghc.git
+stack --resolver ghc-8.0.2 build annotate
+stack --resolver ghc-8.0.2 exec annotate
+stack exec annotate
+stack --resolver ghc-8.0.2 build
+stack --version
+ghc --version
+ls /usr/local/bin
+echo $PATH
+stack
+stack build Annotate
+stack new annotate
+ghc -package ghc annotate.hs
+./annotate
+ghc -package ghc try.hs
+brew update
+rm try*
+./try
+ls -l
+ghc --make try.hs
+ghc -package ghc --make annotate.hs
+ghc --make annotate.hs
+./
+ghci -package
+ghc -package ghci annotate.hs
+cd hw2-Mossaka/
+git commit -m "liquid stops"
+docker run -it -v . atondwal/cse230:latest bash
+docker run -it -v /Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/UCSD/CSE 230/hw3-Mossaka atondwal/cse230:latest bash
+docker ps
+docker ps -a
+docker run
+docker run -it -v . atondwal/cs230 bash
+docker run -help
+docker run -it -v /Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/UCSD/CSE 230/hw3-Mossaka atondwal/cse230 bash
+docket container
+docker
+docker pull atondwal/cse230:latest
+cd 02-random-art/
+cd Homework3/
+liquid Hw2.hs
+liquid ProofCombinators.hs
+cat Makefile
+echo Makefile
+elsa tests/03_minus.lc
+elsa 03_minus.lc
+spy run "elsa" .
+clea
+make test
+cd 00-lambda/
+git clone https://github.com/cse130-wi19/00-lambda.git
+elsa
+stack buil
+cd elsa/
+git clone https://github.com/ucsd-progsys/elsa.git
+brew install coqc
+beer
+coqc Basics.v
+make Basics.vo
+make basic
+make basic.vo
+make Basic.vo
+cd Developer/Coq/
+ssh jiz417@ieng6.ucsd.edu
+python try.py
+cd Python/
+python test.py
+python test
+cd nano/
+pwd
+from nanoTypes import fileToType, strToType
+diff types.pl types3.pl
+difd types3.pl types.pl
+dif types3.pl types.pl
+dif types3.pl types
+swipl fall13.pl
+sw
+cd Final/Fall13/
+ss
+swipl H-prolog\ \(1\).pl
+gcloud compute ssh --project cse190hw3 --zone us-west2-c instance5-vm -- -L 8080:localhost:8080
+gcloud compute ssh --project cse190hw3 --zone us-east4-b instance-x-vm -- -L 8080:localhost:8080
+git clone https://github.com/gwding/draw_convnet.git
+cd Downloads/
+cd Do
+exec -l $SHELL
+curl https://sdk.cloud.google.com | bash
+gcloud compute --project "cse190hw3" ssh --zone "us-west2-c" "instance5-vm"
+gcloud
+ping 35.193.249.203:8888
+ping 35.193.249.203
+ping
+ifconfig
+ip
+gcloud compute --project "testplaces-181723" ssh --zone "us-west1-b" "cse190-vm"
+gcloud init
+./google-cloud-sdk/install.sh
+brew install gcloud
+liquid -v
+liquid -?
+liquid --h
+stack exec -- liquid theoremProver.hs
+liquid theoremProver.hs
+cd liquidhaskell
+which liquid
+spy run "stack exec -- liquid" theoremProver.hs
+spy run "stack exec -- liquid" .
+spy run "stack exec liquid" .
+stack install spy
+swipl rev.pl
+cd Prolog/
+which swipl
+swipl rela.pl
+stack ghci liquidhaskell
+haskell
+:q
+n           = length vec
+body i acc  = acc + (vec ! i)
+where
+cd syntax/
+cp syntax/haskell.vim ~/.vimrc/syntax/haskell.vim
+vim ~/.vimrc
+cd Developer/
+cd Devl
+cd ~/vim/
+cd ~/.vim
+cd ~/.vimrc
+cp /Users/mossaka/Downloads/liquid-types.vim-master/haskell.vim ~/.vimrc/syntax/haskell.vim
+liquid abs.hs
+cd Developer/Haskell/liquidhs/
+mv stack-8.4.yaml stack.yaml
+stack exec -- liquid ./src/02-logic.lhs
+stack exec -- liquid ./src/01-intro.lhs
+git submodule update --recursive
+stack help
+cd liquidhaskell-tutorial/
+git clone --recursive https://github.com/ucsd-progsys/liquidhaskell-tutorial.git
+cd .
+stack exec -- liquid ./src/04-poly.lhs
+python neuralnet.py
+source activate base
+ocaml
+./nanoml.byte tests/t1.ml
+./nanoml.top
+cd ../Homework4/
+ocaml test.ml
+cd Homework3
+python "/Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/UCSD/CSE 158/Homework2/classification.py"
+cd Homework
+pythonpython "/Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/UCSD/CSE 158/Homework2/classification.py"
+stack ghci liquid
+liquid foo.hs
+cd Prolog
+prolog
+brew install swi-prolog
+brew install swi-prolo
+ssh jiz417@ieng6.ucsd.eud
+git clone https://github.com/Mossaka/CSE-190-PA2.git
+//usr/bin/python
+python checker.py
+python neuralnet_starter.py
+/Users/mossaka/Downloads/install-tl-20181021/install-tl ; exit;
+import numpy as np
+pyrhon neuralnet_starter.py
+hh
+python neuralnet_starter.py 1> log.md
+python "/Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/UCSD/CSE 190/hw2/neuralnet_starter.py"
+cd "/Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/UCSD/CSE 190/hw2" ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /Users/mossaka/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.834/dotnet_modules/vsls-agent run-terminal 793e33dc90f24a3dbce400bb08ffedcf
+python "/Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/UCSD/CSE 190/hw2/neuralnet_starter.py" 1> log.md
+echo "haha"
+git commit -m "added loader"
+cd hw2
+stack build foo.hs
+stack liquid foo.hs
+git remote add origin https://github.com/Mossaka/CSE-190-PA2.git
+git commit -m "init git"
+git init
+rm -rf .git
+git rm --cached *.pkl
+git rm --cached
+git push origin master;5A
+git commit -m "anything changed not my fault"
+cd hw2/
+cp z3
+cd /Users/mossaka/Downloads/z3-4.8.1.b301a59899ff-x64-osx-10.11.6/bin
+cd ./Users/mossaka/Downloads/z3-4.8.1.b301a59899ff-x64-osx-10.11.6/bin
+./Users/mossaka/Downloads/z3-4.8.1.b301a59899ff-x64-osx-10.11.6/bin/z3
+/Users/mossaka/Downloads/z3-4.8.1.b301a59899ff-x64-osx-10.11.6/bin/z3
+cabal --help
+cable
+liquid liquidhs/foo.hs
+export PATH=~/.local/bin:$PATH
+cd liquidhaskell-tutorial/src/
+stack ghci -package liquidhaskell
+l;s
+stack ghci liquidhaskell -v
+-v
+liquid zero.hs
+cd ~
+cp /Users/mossaka/Downloads/z3-4.8.1.b301a59899ff-x64-osx-10.11.6/bin/z3 .
+cp
+cd liquid
+cd /Users/mossaka/.local/bin/
+open /Users/mossaka/.local/bin/liquid
+open
+git clone --recursive https://github.com/ucsd-progsys/liquidhaskell.git
